@@ -8,6 +8,6 @@
 
 void quicksort(int lista[],int n);
 void qs(int lista[],int limite_izq,int limite_der);
-char binario(int num);
+char* binario(int num);
 
 #endif
